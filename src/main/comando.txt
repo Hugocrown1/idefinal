@@ -1,0 +1,2 @@
+antlr4 -package com.ide.parser -o ../src/main/java/com/ide/parser -no-listener -visitor Travis.g4
+

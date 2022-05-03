@@ -1,0 +1,7 @@
+astro world(){
+lit a = 0;
+rodeo(a<10) { 
+a=a+1;
+outwest (a);
+}
+}

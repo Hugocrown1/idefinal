@@ -1,0 +1,8 @@
+.text-area {
+    /*-fx-text-fill: #1f140d;*/
+    -fx-control-inner-background: 	#f0e4cb;
+   /* -fx-text-box-border: 606c38;*/
+    /*-fx-faint-focus-color: transparent;
+    -fx-focus-color: transparent;*/
+    /*-fx-prompt-text-fill: #a2a2a2;*/
+}
